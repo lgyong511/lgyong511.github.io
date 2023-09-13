@@ -1,3 +1,25 @@
 apiVersion: v1
-entries: {}
-generated: "2023-09-12T22:08:54.140394928-04:00"
+entries:
+  edu-qjs:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-09-12T22:15:26.106391816-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 9a96d3dccf66f8f5a0b190d0055ad9bff099010b7c1b87ac215d326e0bec48ba
+    name: edu-qjs
+    type: application
+    urls:
+    - https://lgyong511.github.io/charts/edu-qjs-0.1.0.tgz
+    version: 0.1.0
+  web-qjs:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-09-12T22:15:26.106824948-04:00"
+    description: A Helm chart for Kubernetes
+    digest: c629a1fa096bf007da86e740509d45435415d801f6d194036e6d039a0403f6c4
+    name: web-qjs
+    type: application
+    urls:
+    - https://lgyong511.github.io/charts/web-qjs-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-12T22:15:26.105907835-04:00"
