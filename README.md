@@ -19,12 +19,12 @@ helm repo add qjs https://lgyong511.github.io/charts
 
 ## 部署后端
 ```
-helm install qjs/edu-qjs
+helm install edu-qjs qjs/edu-qjs
 ```
 
 ## 部署前端
 ```
-helm install qjs/web-qjs
+helm install web-qjs qjs/web-qjs
 ```
 
 ## 注意事项
